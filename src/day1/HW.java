@@ -9,6 +9,11 @@ public class HW {
 		
 		System.out.println(a + b);
 	}
+	
+	public static void getResult () {
+		
+		System.out.println("result");
+	}
 
 		public static void getResult1 () {
 		
