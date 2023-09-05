@@ -10,4 +10,9 @@ public class HW {
 		System.out.println(a + b);
 	}
 
+		public static void getResult1 () {
+		
+		System.out.println("result1");
+	}
+
 }
